@@ -1,4 +1,5 @@
 {
+   "test": { "message": "Servidor funcionando correctamente" },
   "users": [
     {
       "id": 1,
